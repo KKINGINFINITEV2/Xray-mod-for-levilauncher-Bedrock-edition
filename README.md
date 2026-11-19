@@ -1,7 +1,8 @@
+
 Bedrock X-Ray Scanner
 A native, client-side X-Ray scanner for Minecraft Bedrock Edition (GDK), built for LeviLamina. It scans chunks already loaded by the client and draws ore-specific colored highlights through terrain.
 <p align="center">
-  <img src="assets/xray-showcase.png" alt="Bedrock X-Ray Scanner showing colored ore highlights around blocks" width="100%" />
+  <img width="1909" height="997" alt="A4D861E1-CD0D-4066-9E0E-8EE98C25E4FA" src="https://github.com/user-attachments/assets/fa355ce2-01eb-4d30-8077-be8651ab9093" />
 </p><p align="center">
   <strong>Minecraft 1.26.60.05 (GDK)</strong> · <strong>LeviLamina 26.60.7</strong> · <strong>Windows x64</strong>
 </p>Features
