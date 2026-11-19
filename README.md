@@ -106,3 +106,6 @@ Development
 This project is developed as a standalone LeviLamina native client mod. It does not bundle the rest of another Minecraft client or require a separate client framework.
 
 Contributions, bug reports, and compatibility reports should include the Minecraft version, LeviLamina version, relevant latest.log output, and steps to reproduce the issue.
+
+but im lazy so ill add it later
+
